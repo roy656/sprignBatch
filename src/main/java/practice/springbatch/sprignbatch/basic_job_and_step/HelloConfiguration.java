@@ -1,4 +1,4 @@
-package practice.springbatch.sprignbatch.part1;
+package practice.springbatch.sprignbatch.basic_job_and_step;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

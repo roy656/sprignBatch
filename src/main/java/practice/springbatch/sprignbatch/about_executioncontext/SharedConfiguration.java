@@ -1,4 +1,4 @@
-package practice.springbatch.sprignbatch.part2;
+package practice.springbatch.sprignbatch.about_executioncontext;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
