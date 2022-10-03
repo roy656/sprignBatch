@@ -1,4 +1,4 @@
-package practice.springbatch.sprignbatch.about_executioncontext;
+package practice.springbatch.sprignbatch.spring_batch_process;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
@@ -14,7 +14,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @Slf4j
 @RequiredArgsConstructor
-public class SharedConfiguration {
+public class TaskletProcessingConfiguration {
 
     private final JobBuilderFactory jobBuilderFactory;
 
