@@ -59,7 +59,7 @@ public class SpringBatchConfig {
                 .build();
     }
 
-    // *********** FlatFileItemReader 추가 분 ***********
+    // *********** FlatFileItemReader 추가 분 ************
 
         // CSV File 을 읽어서 Person 클래스로 Mapping 할 수 있는 FlatFileItemReader 메소드
     public FlatFileItemReader<Person> csvFileItemReader() throws Exception {     // 데이터를 읽을수 있게 설정을 해야 하는데
